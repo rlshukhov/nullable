@@ -1,3 +1,5 @@
+[![Go](https://github.com/rlshukhov/nullable/actions/workflows/go.yml/badge.svg)](https://github.com/rlshukhov/nullable/actions/workflows/go.yml)
+
 # Nullable
 Golang nullable package powered by generics
 
